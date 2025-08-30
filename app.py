@@ -11,9 +11,21 @@ color_codes = {
     "red": "#e74c3c",
     "green": "#16a085",
     "blue": "#2980b9",
-    "blue2": "#30336b",
     "pink": "#be2edd",
-    "darkblue": "#130f40"
+    "darkblue": "#130f40",
+    "saffron": "#f4c430",
+    "plum": "#8e4585",
+    "verdigris": "#43b3ae",
+    "oxblood": "#4a0000",
+    "periwinkle": "#ccccff",
+    "charcoal": "#36454f",
+    "celadon": "#ace1af",
+    "amaranth": "#e52b50",
+    "glaucous": "#6082b6",
+    "mikado_yellow": "#ffc40c",
+    "payne_grey": "#536878",
+    "falu_red": "#801818",
+    "zaffre": "#0014a8"
 }
 
 SUPPORTED_COLORS = ",".join(color_codes.keys())
